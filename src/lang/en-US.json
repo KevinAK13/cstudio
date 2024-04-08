@@ -1,0 +1,299 @@
+{
+  "app.welcome": "Home",
+  "app.langselect": "Language",
+  "app.phrase": "Welcome",
+  "app.title": "Elevate your projects with our innovation.",
+  "cookie.title": "Cookies policy",
+  "cookie.content": "This website uses cookies to improve user experience. By continuing to browse this site, you accept our cookie policy.",
+  "cookie.accept": "Accept",
+  "cookie.decline": "Decline",
+  "navbar.services": "Services",
+  "navbar.aboutus": "About us",
+  "navbar.portfolio": "Plans",
+  "navbar.contact": "Contact",
+  "footer.terms": "Terms & Conditions",
+  "footer.privacy": "Privacy Policy",
+  "footer.home": "Home",
+  "footer.about": "About us",
+  "footer.support": "Technical Support",
+  "footer.faq": "FAQs",
+  "footer.copyright": "© Cazares Studio 2023. All Rights Reserved.",
+  "header.title": "Enhance your potential",
+  "header.subtitle": "Digital and business solutions, driven by AI innovation.",
+  "header.button1": "View Services",
+  "header.button2": "Contact us",
+  "services.button2": "Contact us",
+
+  "cta.title": "Transform Your Idea into Success",
+  "cta.content": "We specialize in enhancing your online presence. With a focus on excellence, we craft customized web solutions that mirror your brand's identity and leave a lasting impression. If you're ready to elevate your business in the digital realm, we're here to assist you every step of the way.",
+
+  "services.title": "Find Our Services",
+
+  "services.subtitle": "Services designed to meet your company's needs.",
+
+  "about.title": "About Us",
+  "about.subtitle": "Get to know our project.",
+
+  "carrousel.webdesign": "Web Design",
+  "carrousel.development": "Web & Mobile Apps",
+  "carrousel.branding": "Branding",
+  "carrousel.data": "Data Analytics",
+
+  "features.webdesc": "Modern websites to enhance your online presence.",
+  "features.webcontent": "Modern websites are crucial for boosting your company's online presence. With attractive and functional web design, you can attract more customers and improve the user experience.",
+
+  "features.devdesc": "Tailored web systems and applications designed to drive your business forward.",
+  "features.devcontent": "Web and mobile development are key for expanding a company's online reach. Through tailored websites and apps, businesses can engage customers effectively, enhance user experiences, and boost brand visibility, leading to growth and success.",
+
+  "features.branddesc": "Identity for your brand that resonates with your audience.",
+  "features.brandcontent": "Branding is essential for building a strong brand identity that connects with your audience. By developing a cohesive and memorable brand image, you can instill trust and loyalty among your customers.",
+
+  "features.datadesc": "Data transformed into valuable insights for strategic decision-making.",
+  "features.datacontent": "Data analytics turns information into strategic decisions. By collecting, analyzing, and visualizing relevant data, valuable insights are gained to drive business success by identifying patterns and trends, enabling informed decisions and effective strategies.",
+
+  "pros.title": "Innovation and Talent: Our Essence",
+  "pros.description": "We are at the forefront, incorporating AI innovation into every project. Backed by our experience and professionalism, we provide quality solutions that ensure the success of your project.",
+  "pros.list1": "Unique and personalized web designs.",
+  "pros.list2": "More efficient data analytics.",
+  "pros.list3": "Reduction in development and delivery times.",
+  "pros.list4": "Increased competitiveness.",
+
+  "ctas.p1": "Find the perfect plan",
+  "ctas.p2": "Find the",
+  "ctas.p3": "perfect plan",
+  "ctas.p4": "or design it yourself.",
+
+  "ctas.b1": "View Plans",
+  "ctas.b2": "My Plan",
+
+  "plans.title": "Start Your Path to Success",
+  "plans.subtitle": "Customized and Flexible Subscription Plans.",
+
+  "featuresplan.title": "Exclusive Benefits of Our Plans",
+  "featuresplan.security": "Advanced Security",
+  "featuresplan.secutitycont": "We implement advanced security protocols to protect your website against threats and vulnerabilities.",
+  "featuresplan.upgrades": "Maintenance and Updates Included",
+  "featuresplan.upgradescont": "We offer maintenance and updates at no additional cost, ensuring that your website is always up-to-date and functional.",
+  "featuresplan.multi": "Multiplatform Compatibility",
+  "featuresplan.multicont": "We ensure that your website is compatible with a wide range of devices and browsers.",
+  "featuresplan.support": "Real-Time Technical Assistance",
+  "featuresplan.supportcont": "We offer 24/7 priority support via diverse communication channels.",
+
+  "process.title": "The Process of Your Plan",
+  "process.request": "Your Request",
+  "process.reqdes": "We begin with your request to understand your needs and requirements.",
+  "process.interview": "Interview",
+  "process.intdes": "We conduct an interview to delve into your goals and expectations.",
+  "process.design": "Project Design",
+  "process.designdes": "We create a detailed plan that integrates your needs and focuses on achieving your objectives.",
+  "process.ideas": "Proposals",
+  "process.ideades": "We present the most suitable design and functionality proposals.",
+  "process.test": "Testing",
+  "process.testdes": "We carry out exhaustive tests to ensure the quality and functionality of the project.",
+  "process.end": "Final Delivery",
+  "process.enddes": "We deliver the finalized and implemented project.",
+
+  "pricing.title": "Choose the best plan for your project",
+  "pricing.b1": "Request a Quote",
+  "pricing.b2": "Choose plan",
+  "pricing.include": "What's Included:",
+
+  "pricing.name1": "Basic",
+  "pricing.price1": "$59",
+  "pricing.period": "USD/month",
+  "pricing.desc1": "Ideal for small businesses and entrepreneurs who need a basic online presence.",
+  "plan1.features11": "Professional web design with up to 5 pages.",
+  "plan1.features12": "Web hosting included.",
+  "plan1.features13": "Business email and free domain for one year. *",
+  "plan1.features14": "Gallery of 50 products in catalog or menu format.",
+  "plan1.features15": "Internationalization in English and Spanish.",
+  "plan1.features16": "Integration of Social Networks.",
+
+  "pricing.name2": "Professional",
+  "pricing.price2": "$179",
+  "pricing.desc2": "Perfect for growing companies seeking a more solid and professional web presence.",
+  "plan1.features21": "Customized and tailored web design.",
+  "plan1.features22": "Traffic statistics and performance analysis.",
+  "plan1.features23": "Internationalization in three languages.",
+  "plan1.features24": "Ability to display a wide range of products and services.",
+  "plan1.features25": "Creation of a professional website with up to 15 pages.",
+
+  "pricing.name3": "E-Commerce",
+  "pricing.price3": "Request a Quote",
+  "pricing.desc3": "For partners and businesses looking to securely and efficiently sell products online.",
+  "plan1.features31": "Online store with shopping cart and safe payment processes.",
+  "plan1.features32": "Detailed data analysis to optimize sales strategies.",
+  "plan1.features33": "Inventory management and order tracking.",
+  "plan1.features34": "Internationalization in multiple languages.",
+
+  "pricing.name4": "Reservations",
+  "pricing.price4": "Request a Quote",
+  "pricing.desc4": "For businesses that rely primarily on reservations.",
+  "plan1.features41": "Online reservation system to manage appointments and availability.",
+  "plan1.features42": "Schedule management and automatic appointment reminders.",
+  "plan1.features43": "Service and customer preference customization.",
+  "plan1.features44": "Integration with calendars and payment platforms.",
+  "plan1.features45": "Performance reports and data analysis.",
+  "plan1.features46": "Internationalization in multiple languages.",
+
+  "pricing.name5": "Customized Plan",
+  "pricing.price5": "Request a Quote",
+  "pricing.desc5": "Tailored solution for businesses: ecommerce, reservations, and more, with advanced features.",
+  "plan1.features51": "Customized and advanced web design for a unique experience.",
+  "plan1.features52": "Implementation of online store with product and sales management.",
+  "plan1.features53": "Reservation system with advanced options.",
+  "plan1.features54": "Integration of secure and customized payment methods for your needs.",
+  "plan1.features55": "Personalized user experience.",
+  "plan1.features56": "Detailed and customized analysis to optimize your business strategies.",
+  "plan1.features57": "Internationalization in multiple languages and cultural adaptation.",
+  "plan1.features58": "Development of mobile application for iOS and Android.",
+
+  "ctap.p1": "Need assistance? Check out the frequently asked questions",
+  "ctap.p2": "Need assistance?",
+  "ctap.p3": "Check out the frequently asked questions",
+  "ctap.p4": "or contact us.",
+
+  "ctap.b1": "FAQs",
+  "ctap.b2": "Contact Us",
+
+  "faq.title": "Frequently Asked Questions",
+  "faq.search": "Search  FAQs...",
+
+  "faq.headertitle": "Frequently asked questions",
+  "faq.sub": "Everything you need to know, answered here",
+  "faq.b1": "Technical Support",
+  "faq.b2": "Contact Us",
+
+  "faq.question1": "What is the process for developing a website from scratch?",
+  "faq.answer1": "The process generally involves several stages, including planning, design, development, testing, and implementation of the website.",
+
+  "faq.question2": "What information do you need to start working on my web development project?",
+  "faq.answer2": "To begin development on your web project, we need detailed information about your business goals, including your business model, financial achievements, customer profile, and any specific features you want to include on the site. This information will allow us to tailor the design and functionalities of the website to ensure it meets your expectations and maximizes its impact on the target market.",
+
+  "faq.question3": "Are your websites compatible with mobile devices and tablets?",
+  "faq.answer3": "Yes, our websites are designed to adapt to a variety of devices and screen sizes, ensuring an optimal experience for users on any device.",
+
+  "faq.question4": "How long does it take to develop a website?",
+  "faq.answer4": "The development time can vary depending on the complexity of the project and the specifications of the website. Artificial intelligence (AI) plays a crucial role in streamlining processes by automating tasks and improving efficiency. Although development typically takes several weeks, AI helps shorten this period. For our basic and professional plans, we guarantee delivery times of 3 to 7 days, depending on the scope and requirements of the project.",
+
+  "faq.question5": "Do you offer data analysis and visualization services?",
+  "faq.answer5": "Yes, we provide data analysis and visualization services to help you understand and make the most of your business data.",
+
+  "faq.question6": "What is the approximate cost of developing a website?",
+  "faq.answer6": "The cost can vary depending on the scope and complexity of the project. We will provide you with a detailed quote after discussing your specific requirements and goals.",
+
+  "faq.question7": "What technologies do you use to create websites?",
+  "faq.answer7": "We develop our websites using modern technologies like React and the MERN stack (MongoDB, Express.js, React, Node.js), allowing us to create highly functional platforms tailored to the needs of each project.",
+
+  "faq.question8": "Do you offer digital marketing services to promote my website?",
+  "faq.answer8": "Yes, we offer a wide range of digital marketing services, including SEO, social media, and more, to help you increase the visibility and traffic of your website.",
+
+  "faq.question9": "Can you help me with migrating my website to a new platform?",
+  "faq.answer9": "Yes, we offer website migration services to help you transfer your content, data, and functionalities to a new platform securely and seamlessly.",
+
+  "faq.question10": "Do you offer maintenance services for websites after launch?",
+  "faq.answer10": "Yes, we offer continuous and free maintenance services, included in your monthly payment, to ensure your website is up-to-date, secure, and running smoothly after launch. Additionally, any requested updates are also covered within this service.",
+
+  "faq.question11": "Do you provide web hosting services?",
+  "faq.answer11": "Yes, we offer reliable and secure web hosting services to host your website on high-quality servers with guaranteed uptime.",
+
+  "faq.question12": "How can I request a quote for my project?",
+  "faq.answer12": "You can reach out to us via email, phone, WhatsApp, or schedule a video call at your convenience. We are available to discuss your needs and provide you with a personalized quote.",
+
+  "faq.question13": "What security measures do you implement to protect my website's data?",
+  "faq.answer13": "We implement robust security measures such as SSL encryption, firewalls, and constant monitoring to protect your website's data against cyber threats.",
+
+  "faq.question14": "Do you offer graphic design services in addition to web design?",
+  "faq.answer14": "Yes, we offer a wide range of graphic design services, including logo design, marketing materials, and more, to complement your online presence.",
+
+  "faq.question15": "How can I request technical support if I encounter issues with my website?",
+  "faq.answer15": "You can contact our technical support team via email, phone, or WhatsApp to receive prompt and effective assistance with any issues or questions related to your website.",
+
+  "faq.question17": "Can you develop mobile applications in addition to websites?",
+  "faq.answer17": "Yes, we offer custom mobile app development services for iOS and Android, designed to meet your specific needs and provide a high-quality user experience.",
+
+  "faq.question18": "What sets your agency apart from others in the market?",
+  "faq.answer18": "Our agency distinguishes itself by offering exclusive and prioritized service to each of our clients. We pride ourselves on providing a highly personalized approach, ensuring absolute security and confidentiality for each project. We are firmly committed to excellence at every stage of the process, delivering innovative solutions and outstanding results. Our team is fully dedicated to your satisfaction and the success of your business.",
+
+  "faq.question19": "What payment methods do you accept?",
+  "faq.answer19": "We accept a variety of payment methods, including bank transfers, credit cards, and secure online payment services.",
+
+  "faq.question20": "Do you offer refunds if I am not satisfied with the service?",
+  "faq.answer20": "Yes, we offer a refund policy in certain cases. Please refer to our terms and conditions for more information on our refund policy.",
+
+  "faq.question21": "What guarantees do you offer with your services?",
+  "faq.answer21": "We guarantee quality and customer satisfaction in all our services. If you are not satisfied with the results, we will work with you to make the necessary corrections until you are completely satisfied with the final product.",
+
+  "faq.question22": "How do you handle changes and updates during the development process?",
+  "faq.answer22": "We remain flexible during the development process to accommodate any changes or updates that may arise. We maintain open and transparent communication with you to ensure you are informed at every stage of the project.",
+
+  "faq.question23": "How do you manage website data security and backups?",
+  "faq.answer23": "We implement robust security measures such as SSL encryption, firewalls, and constant monitoring to protect your website's data against cyber threats. Additionally, we perform regular backups to ensure the integrity of your data.",
+
+  "faq.question24": "Do you provide training services to manage the website?",
+  "faq.answer24": "Yes, we offer personalized training services so that you and your team can effectively manage and maintain the website. We ensure you are familiar with all the necessary tools and functionalities to independently manage the site.",
+
+  "faq.question25": "How do you manage projects and communication with clients during development?",
+  "faq.answer25": "We use project management tools and maintain constant and transparent communication with our clients throughout the development process. We ensure you are informed at every stage of the project and that your feedback is taken into account at all times.",
+
+  "faq.question26": "How do you utilize artificial intelligence in website development?",
+  "faq.answer26": "We implement artificial intelligence techniques to optimize and accelerate development processes, such as automating repetitive tasks and improving personalization and user experience.",
+
+  "faq.question28": "What tools or platforms do you use for data analysis?",
+  "faq.answer28": "We use leading market tools and platforms for data analysis, such as Python with libraries like Pandas, NumPy, and Scikit-learn, as well as visualization tools like Tableau and Power BI.",
+
+  "faq.question29": "How do you use collected data to improve website functionality and user experience?",
+  "faq.answer29": "We collect and analyze user data to better understand their behaviors and preferences. We use these insights to personalize the user experience, improve site usability, and optimize conversions.",
+
+  "faq.question30": "Do you implement predictive analysis or recommendation techniques in your projects?",
+  "faq.answer30": "Yes, we use predictive analysis and recommendation techniques based on historical data to predict trends, future behaviors, and offer personalized recommendations to users, thereby enhancing the relevance and effectiveness of the site.",
+
+  "faq.question31": "How do you ensure privacy and security of data used in analysis processes?",
+  "faq.answer31": "We implement rigorous security measures to protect the privacy and integrity of the data used in our analysis processes. This includes compliance with privacy regulations such as GDPR and the use of data encryption and anonymization techniques.",
+
+  "faq.question32": "What security measures do you implement to protect confidential business information?",
+  "faq.answer32": "We implement a range of security measures, including end-to-end encryption, state-of-the-art firewalls, constant network monitoring, and intrusion detection systems to ensure maximum protection of your company's confidential information.",
+
+  "faq.question33": "How do you ensure the integrity and confidentiality of data stored in your systems?",
+  "faq.answer33": "We guarantee the integrity and confidentiality of data through the use of robust security practices, such as data segmentation, role-based access, multi-factor authentication, as well as conducting regular security audits.",
+
+  "faq.question34": "What level of access do your employees have to business data and how do you manage access permissions?",
+  "faq.answer34": "We limit access to business data only to authorized employees and manage access permissions strictly, using robust authentication and authorization systems to ensure that only those with legitimate need have access to the information.",
+
+  "faq.question35": "Do you offer information security training for your staff?",
+  "faq.answer35": "Yes, we provide regular information security training to all our staff to increase awareness of best security practices and ensure the protection of business data at all times.",
+
+  "faq.question36": "How do you help improve my company's branding and visual identity?",
+  "faq.answer36": "We specialize in branding design and creating strong visual identities that reflect the essence and values of your company, ensuring a consistent and appealing presence across all communication channels.",
+
+  "faq.question37": "What options do I have if I want to change categories in the service plans?",
+  "faq.answer37": "We offer flexible options to adapt to the changing needs of your business. If you wish to change categories in our service plans, simply contact us, and we will be happy to discuss the available options to meet your new requirements.",
+
+  "faq.question38": "What is the process for canceling a service plan?",
+  "faq.answer38": "The process of canceling a service plan is simple and straightforward. Just contact our customer service team, and they will guide you through the cancellation process, ensuring it is done effectively and without complications.",
+  "link.myplan": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello!%20I'm%20interested%20in%20customizing%20my%20own%20plan%20and%20tailoring%20it%20to%20the%20specific%20needs%20of%20my%20company.%20Could%20you%20guide%20me%20on%20how%20I%20can%20create%20a%20plan%20that%20perfectly%20suits%20my%20requirements%3F  ",
+  "link.basic": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello!%20I'm%20interested%20in%20selecting%20the%20Basic%20Plan%20and%20I'd%20like%20to%20get%20more%20details%20about%20its%20features.%20Could%20you%20provide%20additional%20information%20about%20the%20content%20and%20benefits%20included%20in%20the%20Basic%20Plan?",
+  "link.pro": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello!%20I%20am%20interested%20in%20selecting%20the%20Professional%20Plan%20and%20would%20like%20to%20get%20more%20details%20about%20its%20features,%20could%20you%20please%20provide%20me%20with%20additional%20information%20about%20the%20content%20and%20benefits%20included%20in%20the%20Professional%20Plan?",
+  "link.ecommerce": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello,%20I%20am%20interested%20in%20learning%20more%20about%20the%20E-Commerce%20Plan,%20about%20the%20features%20and%20tools%20it%20includes%20to%20enhance%20my%20online%20store,%20could%20you%20please%20provide%20me%20with%20more%20information%20on%20how%20this%20plan%20can%20help%20improve%20the%20ecommerce%20experience?",
+  "link.booking": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello!%20%20I%20am%20interested%20in%20getting%20information%20about%20the%20Reservation%20Plan%20and%20how%20it%20can%20benefit%20my%20service%20business,%20could%20you%20please%20provide%20details%20on%20the%20key%20features%20related%20to%20reservation%20management?",
+  "link.custom": "https://api.whatsapp.com/send?phone=+5216625137799&text=Hello,%20I%20would%20like%20to%20learn%20more%20about%20the%20Custom%20Plan,%20which%20includes%20e-commerce%20integration%20and%20booking%20management,%20could%20you%20please%20give%20me%20more%20details%20on%20how%20this%20plan%20can%20be%20tailored%20to%20my%20specific%20business%20needs?",
+  "contact.title": "Our Contact Channels",
+  "contact.subtitle": "Our team is ready to assist you.",
+  "contact.emaildesc": "Write us to our Email.",
+
+  "contact.phone": "Phone number.",
+  "contact.phonedesc": "24 hours customer service.",
+
+  "contact.whatsapp": "Send us a message to our WhatsApp.",
+  "contact.social": "Our Social Networks.",
+
+  "mission.title": "About Cazarez Studio",
+  "mission.p1": "Founded in 2023 in Hermosillo, Sonora, Cazarez Studio is a project comprised of a multidisciplinary team of professionals dedicated to web and mobile app development, data analysis, and graphic design. Our aim is to provide quality digital and business solutions with a personalized approach.",
+  "mission.p2": "With a presence throughout Mexico, we are located in Hermosillo, Sonora, Tepic, Nayarit, Ciudad de México and Playa del Carmen. We are committed to driving your success in the competitive digital marketplace",
+  "about.stats1": "Projects in Progress",
+  "about.stats2": "Satisfied Customers",
+  "about.stats3": "Professionals in our team",
+  "about.stats4": "Websites Created",
+
+  "where.title": "Our Horizons"
+}

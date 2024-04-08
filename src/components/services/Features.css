@@ -1,0 +1,23 @@
+.feature-item {
+    transition: transform 0.5s;
+    /* Duración de la transición */
+}
+
+.feature-item:hover .icon-bg {
+    background-color: rgba(0, 153, 255, 0.8);
+    /* Azul vibrante */
+    box-shadow: 0 0 10px rgba(0, 153, 255, 0.8);
+    /* Iluminación suave */
+}
+
+.icon-bg {
+    transition: background-color 0.5s, box-shadow 0.5s;
+    /* Duración de la transición */
+}
+
+.icon-bg:hover {
+    background-color: rgba(0, 153, 255, 0.8);
+    /* Azul vibrante */
+    box-shadow: 0 0 10px rgba(0, 153, 255, 0.8);
+    /* Iluminación suave */
+}

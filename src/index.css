@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sora: "Sora", sans-serif;
+  --font-code: "Source Code Pro", monospace;
+  --font-grotesk: "Space Grotesk", sans-serif;
+  --font-grotesk: "Space Grotesk", sans-serif;
+  color-scheme: dark;
+}
+
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  /* Define la fuente Raleway como la principal para el cuerpo del documento */
+}
+
+
+
+@layer base {
+  body {
+    @apply font-sans bg-gray-950 text-n-1 text-base;
+  }
+}
+
+.rotate-45 {
+  @apply rotate-[45deg];
+}
+
+.rotate-90 {
+  @apply rotate-[90deg];
+}
+
+.rotate-135 {
+  @apply rotate-[135deg];
+}
+
+.rotate-180 {
+  @apply rotate-[180deg];
+}
+
+.rotate-225 {
+  @apply rotate-[225deg];
+}
+
+.rotate-270 {
+  @apply rotate-[270deg];
+}
+
+.rotate-315 {
+  @apply rotate-[315deg];
+}
+
+.rotate-360 {
+  @apply rotate-[360deg];
+}
+
+.-rotate-45 {
+  @apply rotate-[-45deg];
+}
+
+.-rotate-90 {
+  @apply rotate-[-90deg];
+}
+
+.-rotate-135 {
+  @apply rotate-[-135deg];
+}
+
+.-rotate-180 {
+  @apply rotate-[-180deg];
+}
+
+.-rotate-225 {
+  @apply rotate-[-225deg];
+}
+
+.-rotate-270 {
+  @apply rotate-[-270deg];
+}
+
+.-rotate-315 {
+  @apply rotate-[-315deg];
+}
+
+.-rotate-360 {
+  @apply rotate-[-360deg];
+}
+
+/* styles.css */
+.slide-in-left {
+  transform: translateX(0);
+}
+
+.slide-out-left {
+  transform: translateX(-100%);
+}
+
+.transition {
+  transition: transform 500ms ease-in-out;
+}
+
+
+/* Estilo para el video de fondo */
+.main {
+  position: relative;
+  /* Agrega position relative para que los elementos absolutos se posicionen correctamente */
+  width: 100%;
+  height: 100vh;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  /* Asegúrate de que el video esté detrás de otros elementos */
+}
+
+/* Estilo para el contenido superpuesto */
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 2;
+  /* Asegúrate de que el contenido esté por encima del video */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+  /* Asegúrate de que el overlay esté por encima del contenido y el video */
+}
+
+/* Anima la transición para suavizar los efectos */
+.hover\:scale-105:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Ajusta el ancho de la barra de desplazamiento */
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+  /* Hace que la barra de desplazamiento esté oculta por defecto */
+}
+
+/* Estiliza el track de la barra de desplazamiento */
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  /* Hace que el track esté oculto por defecto */
+}
+
+/* Estiliza el handle de la barra de desplazamiento */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+  transition: background-color 0.5s ease;
+  /* Transición suave para el cambio de color */
+}
+
+/* Cambia el color del handle cuando se pasa el mouse sobre él */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  transition: background-color 0.5s ease;
+  /* Transición suave para el cambio de color */
+}
+
+/* Muestra la barra de desplazamiento solo cuando se hace scroll */
+html:hover::-webkit-scrollbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  /* Color oscuro */
+  transition: background-color 0.5s ease;
+  /* Transición suave para el cambio de color */
+}
+
+/* Anima el desplazamiento */
+html {
+  scroll-behavior: smooth;
+}
+
+.transition-height {
+  transition-property: height;
+  transition-duration: 500ms;
+  transition-timing-function: ease-in-out;
+}

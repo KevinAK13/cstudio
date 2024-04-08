@@ -1,0 +1,304 @@
+{
+  "app.welcome": "Inicio",
+  "app.langselect": "Idioma",
+  "app.phrase": "Bienvenido",
+  "app.title": "Lleva tus proyectos a nuevos horizontes.",
+  "cookie.title": "Política de Cookies",
+  "cookie.content": "Este sitio web utiliza cookies para mejorar la experiencia del usuario. Al continuar navegando en este sitio, aceptas nuestra política de cookies.",
+  "cookie.accept": "Aceptar",
+  "cookie.decline": "Rechazar",
+  "navbar.services": "Servicios",
+  "navbar.aboutus": "Nosotros",
+  "navbar.portfolio": "Planes",
+  "navbar.contact": "Contacto",
+  "footer.terms": "Terminos y Condiciones",
+  "footer.privacy": "Aviso de Privacidad",
+  "footer.home": "Inicio",
+  "footer.about": "Acerca de Nosotros",
+  "footer.support": "Soporte Técnico",
+  "footer.faq": "Preguntas Frecuentes",
+
+  "footer.copyright": "© Cazares Studio 2023. Todos los Derechos Reservados.",
+  "header.title": "Innova tu potencial",
+  "header.subtitle": "Soluciones digitales y empresariales, impulsadas por inteligencia artificial.",
+  "header.button1": "Ver Servicios",
+  "header.button2": "Contáctenos",
+  "cta.title": "Haz que tu Idea se Convierta en Éxito",
+  "cta.content": "Nos especializamos en mejorar su presencia en línea. Centrados en la excelencia, creamos soluciones web personalizadas que reflejan la identidad de su marca y dejan una impresión duradera. Si está listo para elevar su negocio en el ámbito digital, estamos aquí para ayudarle en cada paso del camino.",
+
+  "services.title": "Nuestros Servicios",
+
+  "services.subtitle": "Soluciones diseñadas para las necesidades de su empresa.",
+
+  "about.title": "Nosotros",
+  "about.subtitle": "Conozca nuestro proyecto.",
+
+  "carrousel.webdesign": "Diseño Web",
+  "carrousel.development": "Desarrollo Web y Móvil",
+  "carrousel.branding": "Branding",
+  "carrousel.data": "Analítica de Datos",
+
+  "features.webdesc": "Paginas web modernas para destacar tu presencia en línea.",
+  "features.webcontent": "Las páginas web modernas son esenciales para destacar la presencia en línea de tu empresa. Con un diseño web atractivo y funcional, puedes atraer a más clientes y mejorar la experiencia del usuario.",
+
+  "features.devdesc": "Sistemas web y aplicaciones personalizados para impulsar tu empresa.",
+  "features.devcontent": "El desarrollo web y móvil es pieza clave para ampliar la presencia en línea de cualquier empresa. Al crear sitios web y aplicaciones a medida, se logra una conexión con los clientes, mejorando su experiencia y fortaleciendo la visibilidad de la marca. Esto impulsa el crecimiento y el éxito empresarial de manera significativa.",
+
+  "features.branddesc": "Identidad para tu marca que conecta con tu audiencia.",
+  "features.brandcontent": "El branding es esencial para construir una identidad de marca sólida que conecte con tu audiencia. Al desarrollar una imagen de marca coherente y memorable, puedes generar confianza y lealtad entre tus clientes.",
+
+  "features.datadesc": "Datos transformados en información valiosa para decisiones estratégicas.",
+  "features.datacontent": "La analítica de datos convierte información en decisiones estratégicas. Al recopilar, analizar y visualizar datos relevantes, se obtienen ideas valiosas para impulsar el éxito empresarial al identificar patrones y tendencias, facilitando decisiones informadas y estrategias efectivas.",
+
+  "pros.title": "Innovación y Talento: Nuestra Esencia",
+  "pros.description": "Estamos a la vanguardia, incorporando la innovación de la IA en cada proyecto, respaldados por nuestra experiencia y profesionalismo, brindamos soluciones de calidad que garantizan el éxito de su proyecto.",
+  "pros.list1": "Diseños únicos y personalizados.",
+  "pros.list2": "Analítica de datos más eficiente.",
+  "pros.list3": "Reducción en los tiempos de desarrollo y entrega.",
+  "pros.list4": "Aumento de la competitividad en el mercado.",
+
+  "ctas.p1": "Encuentre el plan perfecto",
+  "ctas.p2": "Encuentre el",
+  "ctas.p3": "plan perfecto",
+  "ctas.p4": "o ajustelo a sus necesidades.",
+
+  "ctas.b1": "Ver Planes",
+  "ctas.b2": "Mi Plan",
+
+  "plans.title": "El primer paso hacia el éxito",
+  "plans.subtitle": "Planes personalizados y flexibles.",
+
+  "featuresplan.title": "Beneficios Exclusivos de Nuestros Planes",
+  "featuresplan.security": "Seguridad Avanzada",
+  "featuresplan.secutitycont": "Implementamos medidas avanzadas de seguridad para proteger su sitio web contra amenazas y vulnerabilidades.",
+  "featuresplan.upgrades": "Mantenimiento y Actualizaciones Incluidas",
+  "featuresplan.upgradescont": "Ofrecemos mantenimiento y actualizaciones sin costo adicional, garantizando que su sitio web esté siempre actualizado y funcional.",
+  "featuresplan.multi": "Compatibilidad Multiplataforma",
+  "featuresplan.multicont": "Garantizamos que su sitio web sea compatible con una amplia gama de dispositivos y navegadores.",
+  "featuresplan.support": "Soporte Técnico en Tiempo Real",
+  "featuresplan.supportcont": "Ofrecemos atención prioritaria las 24 horas del día a través de diversos canales de comunicación.",
+
+  "process.title": "El Proceso de su Plan",
+
+  "process.request": "Su Solicitud",
+  "process.reqdes": "Iniciamos por su solicitud para entender sus necesidades y requerimientos.",
+
+  "process.interview": "Entrevista",
+  "process.intdes": "Realizamos una entrevista para profundizar en tus objetivos y expectativas.",
+
+  "process.design": "Diseño del Proyecto",
+  "process.designdes": "Creamos un plan detallado que integra sus necesidades y se enfoca en alcanzar sus objetivos.",
+
+  "process.ideas": "Propuestas",
+  "process.ideades": "Presentamos las propuestas más adecuadas de diseño y funcionalidad.",
+
+  "process.test": "Pruebas",
+  "process.testdes": "Realizamos pruebas exhaustivas para garantizar la calidad y funcionalidad del proyecto.",
+
+  "process.end": "Entrega Final",
+  "process.enddes": "Entregamos el proyecto finalizado e implementado.",
+
+  "pricing.title": "Elija el mejor plan para su proyecto",
+  "pricing.b1": "Solicitar Cotización",
+  "pricing.b2": "Elegir plan",
+  "pricing.include": "Qué Incluye:",
+
+  "pricing.name1": "Básico",
+  "pricing.price1": "$999 ",
+  "pricing.period": "MXN/mes",
+  "pricing.desc1": "Ideal para pequeñas empresas y emprendedores que necesitan una presencia básica en línea.",
+  "plan1.features11": "Diseño web profesional con hasta 5 páginas.",
+  "plan1.features12": "Hospedaje web incluido.",
+  "plan1.features13": "E-Mail Empresarial y Dominio gratuito por un año. *",
+  "plan1.features14": "Galería de 50 productos en forma de catálogo o menú.",
+  "plan1.features15": "Internacionalización en inglés y español",
+  "plan1.features16": "Integración de Redes Sociales.",
+
+  "pricing.name2": "Profesional",
+  "pricing.price2": "$2,999",
+  "pricing.desc2": "Perfecto para empresas en crecimiento que buscan una presencia web más sólida y profesional.",
+  "plan1.features21": "Diseño web personalizado y a medida.",
+  "plan1.features22": "Estadísticas de tráfico y análisis de rendimiento.",
+  "plan1.features23": "Internacionalización en tres idiomas",
+  "plan1.features24": "Capacidad de mostrar una amplia gama de productos y servicios.",
+  "plan1.features25": "Creación de un sitio web profesional con hasta 15 páginas.",
+
+  "pricing.name3": "Tienda en línea",
+  "pricing.price3": "Solicitar una Cotización",
+  "pricing.desc3": "Para socios y empresas que desean vender productos en línea de forma segura y eficiente.",
+  "plan1.features31": "Tienda en línea con carrito de compras y procesos de pago seguros.",
+  "plan1.features32": "Análisis de datos detallado para optimizar las estrategias de venta.",
+  "plan1.features33": "Gestión de inventario y seguimiento de pedidos.",
+  "plan1.features34": "Internacionalización en múltiples idiomas.",
+
+  "pricing.name4": "Reservaciones",
+  "pricing.price4": "Solicitar una Cotización",
+  "pricing.desc4": "Para empresas que dependen principalmente de reservaciones.",
+  "plan1.features41": "Sistema de reservaciones en línea para gestionar citas y disponibilidad.",
+  "plan1.features42": "Gestión de horarios y recordatorios automáticos de citas.",
+  "plan1.features43": "Personalización de servicios y preferencias para los clientes.",
+  "plan1.features44": "Integración con calendarios y plataformas de pago.",
+  "plan1.features45": "Informes de rendimiento y análisis de datos.",
+  "plan1.features46": "Internacionalización en múltiples idiomas.",
+
+  "pricing.name5": "Plan Personalizado",
+  "pricing.price5": "Solicitar Cotización",
+  "pricing.desc5": "Solución a medida para empresas: ecommerce, reservaciones y más, con funcionalidades avanzadas.",
+  "plan1.features51": "Diseño web personalizado y avanzado para una experiencia única.",
+  "plan1.features52": "Implementación de tienda en línea con gestión de productos y ventas.",
+  "plan1.features53": "Sistema de reservaciones con opciones avanzadas.",
+  "plan1.features54": "Integración de medios de pago seguros y personalizados para tus necesidades.",
+  "plan1.features55": "Experiencia de usuario personalizada.",
+  "plan1.features56": "Análisis detallado y personalizado para optimizar tus estrategias comerciales.",
+  "plan1.features57": "Internacionalización en varios idiomas y adaptación cultural.",
+  "plan1.features58": "Desarrollo de aplicación móvil para iOS y Android.",
+
+  "ctap.p1": "¿Necesita ayuda? Consulte las preguntas frecuentes",
+  "ctap.p2": "¿Necesita ayuda?",
+  "ctap.p3": "Consulte las preguntas frecuentes",
+  "ctap.p4": "o contáctenos .",
+
+  "ctap.b1": "Preguntas Frecuentes",
+  "ctap.b2": "Contáctenos",
+
+  "faq.headertitle": "Ayuda y Preguntas Frecuentes",
+  "faq.sub": "Todo lo que necesita saber, respondido aquí",
+  "faq.b1": "Soporte Técnico",
+  "faq.b2": "Contáctenos",
+
+  "faq.title": "Preguntas Frecuentes",
+  "faq.search": "Buscar pregunta...",
+
+  "faq.question1": "¿Cuál es el proceso para desarrollar un sitio web desde cero?",
+  "faq.answer1": "El proceso generalmente involucra varias etapas, incluyendo la planificación, el diseño, el desarrollo, la prueba y la implementación del sitio web.",
+
+  "faq.question2": "¿Qué información necesita usted para comenzar a trabajar en mi proyecto de desarrollo web?",
+  "faq.answer2": "Para poder iniciar el desarrollo de su proyecto web, necesitamos conocer en detalle sus objetivos empresariales, incluyendo su modelo de negocio, logros financieros, el perfil de sus clientes y cualquier característica específica que desee incluir en el sitio. Esta información nos permitirá adaptar el diseño y las funcionalidades del sitio web para asegurar que cumpla con sus expectativas y maximice su impacto en el mercado objetivo.",
+
+  "faq.question3": "¿Sus sitios web son compatibles con dispositivos móviles y tabletas?",
+  "faq.answer3": "Sí, nuestros sitios web se diseñan para adaptarse a una variedad de dispositivos y tamaños de pantalla, garantizando una experiencia óptima para los usuarios en cualquier dispositivo.",
+
+  "faq.question4": "¿Cuánto tiempo lleva desarrollar un sitio web?",
+  "faq.answer4": "El tiempo de desarrollo puede variar según la complejidad del proyecto y las especificaciones del sitio web. La inteligencia artificial (IA) juega un papel crucial al agilizar los procesos mediante la automatización de tareas y la mejora de la eficiencia. Aunque el desarrollo normalmente lleva varias semanas, la IA contribuye a acortar este período. Para nuestros planes básicos y profesionales, garantizamos tiempos de entrega de 3 a 7 días, dependiendo de la extensión y requisitos del proyecto.",
+  "faq.question5": "¿Ofrecen servicios de análisis de datos y visualización?",
+  "faq.answer5": "Sí, proporcionamos servicios de análisis de datos y visualización para ayudarte a comprender y aprovechar al máximo sus datos empresariales.",
+
+  "faq.question6": "¿Cuál es el costo aproximado de desarrollar un sitio web?",
+  "faq.answer6": "El costo puede variar según el alcance y la complejidad del proyecto. Le proporcionaremos un presupuesto detallado después de discutir sus requisitos y objetivos específicos.",
+
+  "faq.question7": "¿Qué tecnologías utilizan para crear sitios web?",
+  "faq.answer7": "Desarrollamos nuestros sitios web utilizando tecnologías modernas como React y el stack MERN (MongoDB, Express.js, React, Node.js), lo que nos permite crear plataformas altamente funcionales y personalizadas según las necesidades de cada proyecto.",
+
+  "faq.question8": "¿Ofrecen servicios de marketing digital para promocionar mi sitio web?",
+  "faq.answer8": "Sí, ofrecemos una amplia gama de servicios de marketing digital, incluyendo SEO, redes sociales y más, para ayudarle a aumentar la visibilidad y el tráfico de tu sitio web.",
+
+  "faq.question9": "¿Pueden ayudarme con la migración de mi sitio web a una nueva plataforma?",
+  "faq.answer9": "Sí, ofrecemos servicios de migración de sitios web para ayudarte a transferir su contenido, datos y funcionalidades a una nueva plataforma de manera segura y sin problemas.",
+
+  "faq.question10": "¿Ofrecen servicios de mantenimiento para sitios web después del lanzamiento?",
+  "faq.answer10": "Sí, ofrecemos servicios de mantenimiento continuo y gratuito, incluido en su pago mensual, para garantizar que su sitio web esté actualizado, seguro y funcione sin problemas después del lanzamiento. Además, cualquier actualización solicitada también está cubierta dentro de este servicio.",
+
+  "faq.question11": "¿Proporcionan servicios de alojamiento web?",
+  "faq.answer11": "Sí, ofrecemos servicios de alojamiento web confiables y seguros para alojar su sitio web en servidores de alta calidad con un tiempo de actividad garantizado.",
+
+  "faq.question12": "¿Cómo puedo solicitar una cotización para mi proyecto?",
+  "faq.answer12": "Usted puede comunicarse con nosotros a través de correo electrónico, teléfono, WhatsApp o programar una videollamada según su conveniencia. Estamos disponibles para discutir sus necesidades y proporcionarle una cotización personalizada.",
+
+  "faq.question13": "¿Qué medidas de seguridad implementan para proteger los datos de mi sitio web?",
+  "faq.answer13": "Implementamos medidas de seguridad robustas, como cifrado SSL, firewalls y monitoreo constante, para proteger los datos de su sitio web contra amenazas cibernéticas.",
+
+  "faq.question14": "¿Ofrecen servicios de diseño gráfico además del diseño web?",
+  "faq.answer14": "Sí, ofrecemos una amplia gama de servicios de diseño gráfico, incluyendo diseño de logotipos, materiales de marketing, y más, para complementar su presencia en línea.",
+
+  "faq.question15": "¿Cómo puedo solicitar soporte técnico si tengo problemas con mi sitio web?",
+  "faq.answer15": "Puede ponerse en contacto con nuestro equipo de soporte técnico a través de correo electrónico, teléfono o WhatsApp para recibir asistencia rápida y efectiva con cualquier problema o pregunta relacionada con su sitio web.",
+
+  "faq.question17": "¿Pueden desarrollar aplicaciones móviles además de sitios web?",
+  "faq.answer17": "Sí, ofrecemos servicios de desarrollo de aplicaciones móviles personalizadas para iOS y Android, diseñadas para satisfacer sus necesidades específicas y ofrecer una experiencia de usuario de alta calidad.",
+
+  "faq.question18": "¿Qué diferencia a su agencia de otras en el mercado?",
+  "faq.answer18": "Nuestra agencia se distingue por ofrecer un servicio exclusivo y prioritario a cada uno de nuestros clientes. Nos enorgullece proporcionar un enfoque altamente personalizado, garantizando la seguridad y la confidencialidad absoluta de cada proyecto. Nos comprometemos firmemente con la excelencia en todas las etapas del proceso, brindando soluciones innovadoras y resultados sobresalientes. Nuestro equipo está dedicado por completo a su satisfacción y al éxito de su empresa.",
+
+  "faq.question19": "¿Cuáles son los métodos de pago aceptados?",
+  "faq.answer19": "Aceptamos una variedad de métodos de pago, incluyendo transferencias bancarias, tarjetas de crédito y servicios de pago en línea seguros.",
+
+  "faq.question20": "¿Ofrecen reembolsos si no estoy satisfecho con el servicio?",
+  "faq.answer20": "Sí, ofrecemos una política de reembolso en ciertos casos. Por favor, consulte nuestros términos y condiciones para obtener más información sobre nuestra política de reembolso.",
+
+  "faq.question21": "¿Qué garantías ofrecen con sus servicios?",
+  "faq.answer21": "Garantizamos la calidad y la satisfacción del cliente en todos nuestros servicios. Si no está satisfecho con los resultados, trabajaremos con usted para hacer las correcciones necesarias hasta que esté completamente satisfecho con el producto final.",
+
+  "faq.question22": "¿Cómo manejan los cambios y las actualizaciones durante el proceso de desarrollo?",
+  "faq.answer22": "Nos mantenemos flexibles durante el proceso de desarrollo para adaptarnos a cualquier cambio o actualización que pueda surgir. Mantenemos una comunicación abierta y transparente con usted para asegurarnos de que esté informado en cada etapa del proyecto.",
+
+  "faq.question23": "¿Cómo gestionan la seguridad y las copias de seguridad de los datos del sitio web?",
+  "faq.answer23": "Implementamos medidas de seguridad robustas, como cifrado SSL, firewalls y monitoreo constante, para proteger los datos de su sitio web contra amenazas cibernéticas. Además, realizamos copias de seguridad regulares para garantizar la integridad de sus datos.",
+
+  "faq.question24": "¿Proporcionan servicios de formación o capacitación para administrar el sitio web?",
+  "faq.answer24": "Sí, ofrecemos servicios de formación personalizada para que usted y su equipo puedan administrar y mantener el sitio web de manera efectiva. Nos aseguramos de que estén familiarizados con todas las herramientas y funcionalidades necesarias para gestionar el sitio de forma independiente.",
+
+  "faq.question25": "¿Cómo gestionan los proyectos y la comunicación con los clientes durante el desarrollo?",
+  "faq.answer25": "Utilizamos herramientas de gestión de proyectos y mantenemos una comunicación constante y transparente con nuestros clientes durante todo el proceso de desarrollo. Nos aseguramos de que esté informado en cada etapa del proyecto y que sus comentarios sean tenidos en cuenta en todo momento.",
+
+  "faq.question26": "¿Cómo utilizan la inteligencia artificial en el desarrollo de sitios web?",
+  "faq.answer26": "Implementamos técnicas de inteligencia artificial para optimizar y acelerar procesos de desarrollo, como la automatización de tareas repetitivas y la mejora de la personalización y la experiencia del usuario.",
+
+  "faq.question28": "¿Qué herramientas o plataformas utilizan para el análisis de datos?",
+  "faq.answer28": "Utilizamos herramientas y plataformas líderes en el mercado para el análisis de datos, como Python con bibliotecas como Pandas, NumPy y Scikit-learn, así como también herramientas de visualización como Tableau y Power BI.",
+
+  "faq.question29": "¿Cómo utilizan los datos recopilados para mejorar la funcionalidad y la experiencia del usuario en los sitios web?",
+  "faq.answer29": "Recopilamos y analizamos datos de usuarios para comprender mejor sus comportamientos y preferencias. Utilizamos estos insights para personalizar la experiencia del usuario, mejorar la usabilidad del sitio y optimizar las conversiones.",
+
+  "faq.question30": "¿Implementan técnicas de análisis predictivo o recomendación en sus proyectos?",
+  "faq.answer30": "Sí, utilizamos técnicas de análisis predictivo y recomendación basadas en datos históricos para predecir tendencias, comportamientos futuros y ofrecer recomendaciones personalizadas a los usuarios, mejorando así la relevancia y la eficacia del sitio.",
+
+  "faq.question31": "¿Cómo garantizan la privacidad y la seguridad de los datos utilizados en los procesos de análisis?",
+  "faq.answer31": "Implementamos medidas de seguridad rigurosas para proteger la privacidad y la integridad de los datos utilizados en nuestros procesos de análisis. Esto incluye el cumplimiento de regulaciones de privacidad como GDPR y el uso de técnicas de encriptación y anonimización de datos.",
+
+  "faq.question32": "¿Qué medidas de seguridad implementan para proteger la información confidencial de mis negocios?",
+  "faq.answer32": "Implementamos una serie de medidas de seguridad, incluyendo cifrado de extremo a extremo, firewalls de última generación, monitoreo constante de la red y sistemas de detección de intrusiones para garantizar la máxima protección de la información confidencial de su empresa.",
+
+  "faq.question33": "¿Cómo aseguran la integridad y la confidencialidad de los datos almacenados en sus sistemas?",
+  "faq.answer33": "Garantizamos la integridad y confidencialidad de los datos mediante el uso de prácticas de seguridad robustas, como la segmentación de datos, el acceso basado en roles y la autenticación multifactor, además de realizar auditorías regulares de seguridad.",
+
+  "faq.question34": "¿Qué nivel de acceso tienen sus empleados a los datos empresariales y cómo gestionan los permisos de acceso?",
+  "faq.answer34": "Limitamos el acceso a los datos empresariales solo a empleados autorizados y gestionamos los permisos de acceso de manera estricta, utilizando sistemas de autenticación y autorización robustos para garantizar que solo aquellos con necesidad legítima tengan acceso a la información.",
+
+  "faq.question35": "¿Ofrecen capacitación en seguridad de la información para su personal?",
+  "faq.answer35": "Sí, proporcionamos capacitación en seguridad de la información de manera regular a todo nuestro personal para aumentar la conciencia sobre las mejores prácticas de seguridad y garantizar la protección de los datos empresariales en todo momento.",
+  "faq.question36": "¿Cómo ayudan a mejorar el branding y la identidad visual de mi empresa?",
+  "faq.answer36": "Nos especializamos en el diseño de branding y la creación de identidades visuales sólidas que reflejen la esencia y los valores de su empresa, asegurando una presencia coherente y atractiva en todos los canales de comunicación.",
+
+  "faq.question37": "¿Qué opciones tengo si deseo cambiar de categoría en los planes de servicio?",
+  "faq.answer37": "Ofrecemos opciones flexibles para adaptarnos a las necesidades cambiantes de su empresa. Si desea cambiar de categoría en nuestros planes de servicio, simplemente contáctenos y estaremos encantados de discutir las opciones disponibles para satisfacer sus nuevos requisitos.",
+
+  "faq.question38": "¿Cuál es el proceso para cancelar un plan de servicio?",
+  "faq.answer38": "El proceso de cancelación de un plan de servicio es simple y directo. Simplemente comuníquese con nuestro equipo de atención al cliente y ellos le guiarán a través del proceso de cancelación, asegurándose de que se realice de manera efectiva y sin complicaciones.",
+  "link.myplan": "https://api.whatsapp.com/send?phone=+5216625137799&text=%20%C2%A1Hola!%20%20Me%20interesa%20personalizar%20mi%20propio%20plan%20y%20adaptarlo%20a%20las%20necesidades%20espec%C3%ADficas%20de%20mi%20empresa.%20%C2%BFPodr%C3%ADan%20orientarme%20sobre%20c%C3%B3mo%20puedo%20crear%20un%20plan%20que%20se%20ajuste%20perfectamente%20a%20mis%20requisitos?",
+  "link.basic": "https://api.whatsapp.com/send?phone=+5216625137799&text=%C2%A1Hola!%20Me%20interesa%20seleccionar%20el%20Plan%20B%C3%A1sico%20y%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20detalles%20sobre%20sus%20caracter%C3%ADsticas.%20%C2%BFPodr%C3%ADan%20proporcionarme%20informaci%C3%B3n%20adicional%20sobre%20el%20contenido%20y%20beneficios%20incluidos%20en%20el%20Plan%20B%C3%A1sico?",
+  "link.pro": "https://api.whatsapp.com/send?phone=+5216625137799&text=%C2%A1Hola!%20Me%20interesa%20seleccionar%20el%20Plan%20Profesional%20y%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20detalles%20sobre%20sus%20caracter%C3%ADsticas.%20%C2%BFPodr%C3%ADan%20proporcionarme%20informaci%C3%B3n%20adicional%20sobre%20el%20contenido%20y%20beneficios%20incluidos%20en%20el%20Plan%20Profesional?",
+  "link.ecommerce": "https://api.whatsapp.com/send?phone=+5216625137799&text=%C2%A1Hola!%20Me%20intersa%20saber%20m%C3%A1s%20sobre%20el%20Plan%20de%20Tienda%20en%20l%C3%ADnea,%20sobre%20las%20funciones%20y%20herramientas%20que%20incluye%20para%20impulsar%20mi%20tienda%20en%20l%C3%ADnea.%20%C2%BFPodr%C3%ADan%20proporcionar%20m%C3%A1s%20informaci%C3%B3n%20sobre%20c%C3%B3mo%20este%20plan%20puede%20ayudar%20a%20mejorar%20la%20experiencia%20de%20comercio%20electr%C3%B3nico?",
+  "link.booking": "https://api.whatsapp.com/send?phone=+5216625137799&text=%C2%A1Hola!%20%20Me%20interesa%20obtener%20informaci%C3%B3n%20sobre%20el%20Plan%20de%20Reservaciones%20y%20c%C3%B3mo%20puede%20beneficiar%20a%20mi%20negocio%20de%20servicios.%20%C2%BFPodr%C3%ADan%20proporcionar%20detalles%20sobre%20las%20caracter%C3%ADsticas%20clave%20relacionadas%20con%20la%20gesti%C3%B3n%20de%20reservas?",
+  "link.custom": "https://api.whatsapp.com/send?phone=+5216625137799&text=%20%C2%A1Hola!%20%20Quisiera%20conocer%20m%C3%A1s%20sobre%20el%20Plan%20Personalizado,%20que%20incluye%20la%20integraci%C3%B3n%20de%20comercio%20electr%C3%B3nico%20y%20gesti%C3%B3n%20de%20reservas.%20%C2%BFPodr%C3%ADan%20darme%20m%C3%A1s%20detalles%20sobre%20c%C3%B3mo%20este%20plan%20puede%20adaptarse%20a%20las%20necesidades%20espec%C3%ADficas%20de%20mi%20negocio?",
+
+  "contact.title": "Nuestros Canales de Contacto",
+  "contact.subtitle": "Nuestro equipo está listo para atenderle.",
+  "contact.emaildesc": "Escribanos a nuestro Email.",
+
+  "contact.phone": "Teléfono.",
+  "contact.phonedesc": "24 horas de atención al cliente.",
+
+  "contact.whatsapp": "Escribanos por WhatsApp.",
+  "contact.social": "Nuestras Redes Sociales.",
+
+  "mission.title": "Sobre Cazarez Studio",
+
+  "mission.p1": "Fundado en 2023 en Hermosillo, Sonora, Cazarez Studio es un proyecto conformado por un equipo multidisciplinario de profesionales dedicados al desarrollo de aplicaciones web y móviles, análisis de datos y diseño gráfico. Nuestro objetivo es brindar soluciones digitales y empresariales de calidad con un enfoque personalizado.",
+  "mission.p2": "Con presencia en todo México, nos encontramos en Hermosillo, Sonora, Tepic, Nayarit, Ciudad de México y Playa del Carmen. Nos comprometemos a impulsar su éxito en el competitivo mercado digital.",
+
+  "about.stats1": "Proyectos en Progreso",
+  "about.stats2": "Clientes Satisfechos",
+  "about.stats3": "Profesionales en nuestro equipo",
+  "about.stats4": "Sitios Web Creados",
+  "where.title": "Nuestros Horizontes"
+}

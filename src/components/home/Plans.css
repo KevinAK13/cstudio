@@ -1,0 +1,19 @@
+/* Plan.css */
+
+/* Estilos de las imágenes */
+.row-span-3,
+.row-span-2 {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 2px;
+    transition: transform 0.5s;
+    /* Agrega una transición de 0.5 segundos al transform */
+}
+
+/* Agrega el efecto de escala al hacer hover sobre las imágenes */
+.row-span-3:hover,
+.row-span-2:hover {
+    transform: scale(1.05);
+    /* Escala la imagen al 105% del tamaño original */
+}
